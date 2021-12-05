@@ -1,4 +1,4 @@
-# invisibility-cloak
+# Invisibility Cloak
 
 Image processing using **OpenCV Python**
 
